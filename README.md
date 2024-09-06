@@ -1,4 +1,11 @@
-## Hi there 👋
+## A little bit about me:
+
+- 🎓 3rd-year student at ITMO University  
+- 💡 Passionate about learning new things and expanding my skill set  
+- 🤝 Great at connecting with people and working in teams  
+- 👨‍💻 Always exploring new technologies and tackling exciting projects  
+
+Feel free to connect with me!
 
 <!--
 **SnakeAnon/SnakeAnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
