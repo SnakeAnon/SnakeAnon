@@ -7,7 +7,7 @@
 
 Feel free to connect with me!
 
-##Tech Stack
+## Tech Stack
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
           
