@@ -8,8 +8,9 @@
 Feel free to connect with me!
 
 ## Tech Stack
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-csharp-plain"></i>
+<div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
           
 
           
