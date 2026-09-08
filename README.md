@@ -1,12 +1,3 @@
-## A little bit about me:
-
-- 🎓 3rd-year student at ITMO University  
-- 💡 Passionate about learning new things and expanding my skill set  
-- 🤝 Great at connecting with people and working in teams  
-- 👨‍💻 Always exploring new technologies and tackling exciting projects  
-
-Feel free to connect with me!
-
 ## Tech Stack
 <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
